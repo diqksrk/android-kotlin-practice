@@ -6,6 +6,6 @@ IT 관련 뉴스를 보고 카드 뉴스를 제작하고 배포할수 있는 앱
 
 #### 16) 로그인창(log-in window)
 <p align="center">
-<img src="img/img_listView.png" style="float:left;" alt="img1">
+<img src="img/img_16listView.JPG" style="float:left;" alt="img1">
 <p/>
 리스트뷰 이미지입니다.
