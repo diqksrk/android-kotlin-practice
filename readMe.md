@@ -1,5 +1,5 @@
 ## -목차-
-&nbsp;&nbsp;16.  [리스트뷰 이미지](https://github.com/diqksrk/android-kotilin-practice-리스트뷰)<br>
+&nbsp;&nbsp;16.  [리스트뷰 이미지](https://github.com/diqksrk/android-kotilin-practice#16-리스트뷰)<br>
 <br>
 ## 1. 이미지.
 
