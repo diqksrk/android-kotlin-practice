@@ -7,7 +7,7 @@
 &nbsp;&nbsp;21.  [Spinner 이미지](https://github.com/diqksrk/android-kotlin-practice#21-Spinner)<br>
 &nbsp;&nbsp;22.  [ViewPager 이미지](https://github.com/diqksrk/android-kotlin-practice#22-ViewPager)<br>
 &nbsp;&nbsp;23.  [OptionMenu 이미지](https://github.com/diqksrk/android-kotlin-practice#23-OptionMenu)<br>
-&nbsp;&nbsp;24.  [ContextMenu 이미지](https://github.com/diqksrk/android-kotlin-practice#24-ContextMenu)<br>
+&nbsp;&nbsp;24.  [ContextMenu 이미지](https://github.com/diqksrk/android-kotlin-practice#24-ContextMenu) - 뷰를 길게 클릭했을 경우 리스트가 나오게 하는 경우<br>
 <br>
 ## 1. 이미지.
 
