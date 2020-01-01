@@ -54,6 +54,7 @@
 <img src="img/img_22viewPager1.JPG" style="float:left;" alt="img1">
   <img src="img/img_22viewPager2.JPG" style="float:left;" alt="img2">
 <p/>
+<p><strong>1.</strong> 뷰를 전환하거나 할 경우 나타날 화면을 세팅할때 사용한다.</p>
 
 #### 23) OptionMenu()
 
