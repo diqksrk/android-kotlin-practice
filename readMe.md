@@ -1,5 +1,12 @@
 ## -목차-
 &nbsp;&nbsp;16.  [리스트뷰 이미지](https://github.com/diqksrk/android-kotlin-practice#16-리스트뷰)<br>
+&nbsp;&nbsp;16.  [리스트뷰 이미지](https://github.com/diqksrk/android-kotlin-practice#17-custom리스트뷰)<br>
+&nbsp;&nbsp;16.  [리스트뷰 이미지](https://github.com/diqksrk/android-kotlin-practice#16-리스트뷰)<br>
+&nbsp;&nbsp;16.  [리스트뷰 이미지](https://github.com/diqksrk/android-kotlin-practice#16-리스트뷰)<br>
+&nbsp;&nbsp;16.  [리스트뷰 이미지](https://github.com/diqksrk/android-kotlin-practice#16-리스트뷰)<br>
+&nbsp;&nbsp;16.  [리스트뷰 이미지](https://github.com/diqksrk/android-kotlin-practice#16-리스트뷰)<br>
+&nbsp;&nbsp;16.  [리스트뷰 이미지](https://github.com/diqksrk/android-kotlin-practice#16-리스트뷰)<br>
+&nbsp;&nbsp;16.  [리스트뷰 이미지](https://github.com/diqksrk/android-kotlin-practice#16-리스트뷰)<br>
 <br>
 ## 1. 이미지.
 
@@ -7,7 +14,7 @@
 <p align="center">
 <img src="img/img_16listView.JPG" style="float:left;" alt="img1">
 <p/>
-#### 17) custom리스트뷰()
+#### 16) 리스트뷰()
 <p align="center">
 <img src="img/img_17customListView.JPG" style="float:left;" alt="img1">
 <p/>
