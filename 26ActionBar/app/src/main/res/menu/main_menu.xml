@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Item5"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="메뉴5"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="android.widget.SearchView"/>
+        <!-- app:actionViewClass="android.support.v7.widget.SearchView" -->
+    <item
+        android:id="@+id/Item1"
+        android:title="메뉴1" />
+    <item
+        android:id="@+id/Item2"
+        android:icon="@mipmap/ic_launcher"
+        android:title="메뉴2"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/Item3"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:title="메뉴3"
+        app:showAsAction="always|withText" />
+    <!-- 화면이 표시되면 문자열도 같이 표시 되는게 위드 텍스트이다 -->
+    <item
+        android:id="@+id/Item4"
+        android:title="메뉴4"
+        app:showAsAction="ifRoom|withText" />
+</menu>
