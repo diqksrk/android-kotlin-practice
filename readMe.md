@@ -11,10 +11,13 @@
 ## 1. 이미지.
 
 #### 16) 리스트뷰()
+
 <p align="center">
 <img src="img/img_16listView.JPG" style="float:left;" alt="img1">
 <p/>
-#### 16) 리스트뷰()
+
+#### 17) custom리스트뷰()
+
 <p align="center">
 <img src="img/img_17customListView.JPG" style="float:left;" alt="img1">
 <p/>
