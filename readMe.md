@@ -9,6 +9,9 @@
 &nbsp;&nbsp;23.  [OptionMenu 이미지](https://github.com/diqksrk/android-kotlin-practice#23-OptionMenu)<br>
 &nbsp;&nbsp;24.  [ContextMenu 이미지](https://github.com/diqksrk/android-kotlin-practice#24-ContextMenu) - 뷰를 길게 클릭했을 경우 리스트가 나오게 하는 경우<br>
 &nbsp;&nbsp;25.  [popupmenu 이미지](https://github.com/diqksrk/android-kotlin-practice#25-popupmenu) - 버튼을 클릭할 경우  리스트가 나오게 하는 경우<br>
+&nbsp;&nbsp;26.  [ActionBar 이미지](https://github.com/diqksrk/android-kotlin-practice#23-ActionBar)<br>
+&nbsp;&nbsp;27.  [ToastMessage 이미지](https://github.com/diqksrk/android-kotlin-practice#23-ToastMessage)<br>
+&nbsp;&nbsp;28.  [dialogu 이미지](https://github.com/diqksrk/android-kotlin-practice#23-dialog)<br>
 <br>
 ## 1. 이미지.
 
@@ -79,3 +82,34 @@
 <img src="img/img_25popupmenu.JPG" style="float:left;" alt="img1">
 <p/>
 <p><strong>1.</strong> 누를 경우 팝업처럼 나오는 메뉴 리스트</p>
+
+
+#### 26) ActionBar()
+
+<p align="center">
+<img src="img/img_26ActionBar.JPG" style="float:left;" alt="img1">
+<p/>
+
+#### 27) ToastMessage()
+
+<p align="center">
+<img src="img/img_27ToastMessage.JPG" style="float:left;" alt="img1">
+<p/>
+
+#### 28) dialog()
+
+<p align="center">
+<img src="img/img_28dialog1.JPG" style="float:left;" alt="img1">
+<p/>
+<p align="center">
+<img src="img/img_28dialog2.JPG" style="float:left;" alt="img1">
+<p/>
+<p align="center">
+<img src="img/img_28dialog3.JPG" style="float:left;" alt="img1">
+<p/>
+<p align="center">
+<img src="img/img_28dialog4.JPG" style="float:left;" alt="img1">
+<p/>
+<p align="center">
+<img src="img/img_28dialog5.JPG" style="float:left;" alt="img1">
+<p/>
