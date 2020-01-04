@@ -100,16 +100,10 @@
 
 <p align="center">
 <img src="img/img_28dialog1.JPG" style="float:left;" alt="img1">
-<p/>
-<p align="center">
-<img src="img/img_28dialog2.JPG" style="float:left;" alt="img1">
-<p/>
-<p align="center">
-<img src="img/img_28dialog3.JPG" style="float:left;" alt="img1">
+  <img src="img/img_28dialog2.JPG" style="float:left;" alt="img1">
+  <img src="img/img_28dialog3.JPG" style="float:left;" alt="img1">
 <p/>
 <p align="center">
 <img src="img/img_28dialog4.JPG" style="float:left;" alt="img1">
-<p/>
-<p align="center">
-<img src="img/img_28dialog5.JPG" style="float:left;" alt="img1">
+  <img src="img/img_28dialog5.JPG" style="float:left;" alt="img1">
 <p/>
